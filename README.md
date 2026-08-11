@@ -1,10 +1,10 @@
-# One-Word Energy Domain Names Across 506 TLDs (115,936)
+# One-Word Energy Domain Names Across 506 TLDs (117,870)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-115%2C936%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-117%2C870%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word energy domain names spanning 506 TLDs, with a median asking price near $710. It spans broad-market, niche, and country-code extensions for both investors and founders. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **115,936 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **117,870 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 115,936 domains · **Median ask:** $704.18 · **High-demand under $2,500:** 433
+**Public extract:** 1,000 rows · **Live catalog:** 117,870 domains · **Median ask:** $688.89 · **High-demand under $2,500:** 433
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/sector/energy`
 **Best for:** founders, investors, studios
 
@@ -72,16 +72,16 @@ print(df.head())
 | oil.name          | premium   | $9.98     | —             | high           | low    | 3      | namecheap         |
 | cell.auto         | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo          |
 | oil.energy        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC       |
-| sun.green         | premium   | $1,875    | —             | high           | medium | 3      | name.com          |
+| oil.tech          | premium   | $1,562.50 | $6,250        | high           | low    | 3      | name.com          |
 | cell.car          | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo          |
 | sun.solar         | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
-| cell.cloud        | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap         |
+| sun.green         | premium   | $1,875    | —             | high           | medium | 3      | name.com          |
 | cell.equipment    | available | $19.99    | —             | high           | low    | 4      | name.com          |
 | sun.solutions     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
-| cell.eco          | premium   | $9,375    | —             | high           | low    | 4      | name.com          |
+| cell.cloud        | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap         |
 | cell.organic      | available | $19.99    | —             | high           | low    | 4      | name.com          |
 | cell.energy       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 26 |
-| cell.parts        | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo          |
+| cell.eco          | premium   | $9,375    | —             | high           | low    | 4      | name.com          |
 | cell.supplies     | available | $24.99    | $24.99        | high           | low    | 4      | namesilo          |
 | cell.express      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 5  |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 115,936 live domains                       |
+| 1,000-row public sample | 117,870 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 433 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
