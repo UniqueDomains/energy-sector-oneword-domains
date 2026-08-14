@@ -16,7 +16,7 @@ This selection covers one-word energy domain names spanning 506 TLDs, with a med
 
 **Public extract:** 1,000 rows · **Live catalog:** 125,138 domains · **Median ask:** $653.63 · **High-demand under $2,500:** 426
 
-**Last updated:** 2026-08-13
+**Last updated:** 2026-08-14
 **Canonical page:** `https://unique.domains/domains/sector/energy`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
