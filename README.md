@@ -16,7 +16,7 @@ This selection covers one-word energy domain names spanning 506 TLDs, with a med
 
 **Public extract:** 1,000 rows · **Live catalog:** 127,450 domains · **Median ask:** $643.15 · **High-demand under $2,500:** 426
 
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-17
 **Canonical page:** `https://unique.domains/domains/sector/energy`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| sun.ryukyu       | available | $22.98    | —             | high           | medium | 3      | namecheap           |
-| sun.pub          | resell    | —         | —             | high           | medium | 3      | Dynadot Inc         |
-| cells.accountant | premium   | $437.50   | —             | medium         | low    | 5      | name.com            |
-| flow.giving      | available | $5.99     | —             | high           | medium | 4      | name.com            |
-| line.archi       | resell    | —         | —             | high           | medium | 4      | Tucows Domains Inc. |
-| cells.art        | premium   | $153.75   | —             | medium         | low    | 5      | name.com            |
-| unit.lat         | available | $1.99     | —             | high           | low    | 4      | name.com            |
-| unit.bio         | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.     |
-| cells.bar        | premium   | $84.99    | —             | medium         | low    | 5      | name.com            |
-| unit.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap           |
-| unit.bot         | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC        |
-| cells.bond       | premium   | $420      | $840          | medium         | low    | 5      | namecheap           |
-| watt.today       | available | $2.99     | —             | medium         | low    | 4      | name.com            |
-| cells.info       | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.     |
-| cells.boo        | premium   | $73.75    | —             | medium         | low    | 5      | name.com            |
-| cells.adult      | available | $166.98   | —             | medium         | low    | 5      | namecheap           |
-| green.now        | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc.     |
-| cells.club       | premium   | $33.49    | —             | medium         | low    | 5      | name.com            |
-| cells.airforce   | available | $134.98   | —             | medium         | low    | 5      | namecheap           |
-| green.trading    | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| sun.ryukyu       | available | $22.98    | —             | high           | medium | 3      | namecheap       |
+| unit.bio         | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| unit.shop        | premium   | $625      | —             | high           | low    | 4      | name.com        |
+| flow.giving      | available | $5.99     | —             | high           | medium | 4      | name.com        |
+| unit.bot         | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC    |
+| cells.accountant | premium   | $437.50   | —             | medium         | low    | 5      | name.com        |
+| oily.solar       | available | $9.99     | $83.99        | low            | low    | 4      | name.com        |
+| cells.cam        | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc. |
+| cells.art        | premium   | $153.75   | —             | medium         | low    | 5      | name.com        |
+| unit.lat         | available | $1.99     | —             | high           | low    | 4      | name.com        |
+| cells.info       | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc. |
+| cells.bar        | premium   | $84.99    | —             | medium         | low    | 5      | name.com        |
+| unit.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap       |
+| green.now        | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc. |
+| cells.bond       | premium   | $420      | $840          | medium         | low    | 5      | namecheap       |
+| watt.ryukyu      | available | $22.98    | —             | medium         | low    | 4      | namecheap       |
+| green.trading    | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc     |
+| cells.boo        | premium   | $73.75    | —             | medium         | low    | 5      | name.com        |
+| cells.adult      | available | $166.98   | —             | medium         | low    | 5      | namecheap       |
+| smart.education  | resell    | —         | —             | high           | medium | 5      | Porkbun LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
