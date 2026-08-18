@@ -16,7 +16,7 @@ This selection covers one-word energy domain names spanning 506 TLDs, with a med
 
 **Public extract:** 1,000 rows · **Live catalog:** 127,450 domains · **Median ask:** $643.15 · **High-demand under $2,500:** 426
 
-**Last updated:** 2026-08-17
+**Last updated:** 2026-08-18
 **Canonical page:** `https://unique.domains/domains/sector/energy`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| sun.ryukyu       | available | $22.98    | —             | high           | medium | 3      | namecheap       |
-| unit.bio         | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| unit.shop        | premium   | $625      | —             | high           | low    | 4      | name.com        |
-| flow.giving      | available | $5.99     | —             | high           | medium | 4      | name.com        |
-| unit.bot         | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC    |
-| cells.accountant | premium   | $437.50   | —             | medium         | low    | 5      | name.com        |
-| oily.solar       | available | $9.99     | $83.99        | low            | low    | 4      | name.com        |
-| cells.cam        | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc. |
-| cells.art        | premium   | $153.75   | —             | medium         | low    | 5      | name.com        |
-| unit.lat         | available | $1.99     | —             | high           | low    | 4      | name.com        |
-| cells.info       | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc. |
-| cells.bar        | premium   | $84.99    | —             | medium         | low    | 5      | name.com        |
-| unit.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap       |
-| green.now        | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc. |
-| cells.bond       | premium   | $420      | $840          | medium         | low    | 5      | namecheap       |
-| watt.ryukyu      | available | $22.98    | —             | medium         | low    | 4      | namecheap       |
-| green.trading    | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc     |
-| cells.boo        | premium   | $73.75    | —             | medium         | low    | 5      | name.com        |
-| cells.adult      | available | $166.98   | —             | medium         | low    | 5      | namecheap       |
-| smart.education  | resell    | —         | —             | high           | medium | 5      | Porkbun LLC     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| gas.organic       | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| production.energy | resell    | $21.99    | —             | high           | low    | 10     | Spaceship, Inc.                                           |
+| oil.green         | premium   | $1,875    | $1,875        | high           | low    | 3      | name.com                                                  |
+| oil.ryukyu        | available | $22.98    | —             | high           | low    | 3      | namecheap                                                 |
+| gas.energy        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                               |
+| sun.green         | premium   | $1,875    | —             | high           | medium | 3      | name.com                                                  |
+| oil.solar         | available | $9.99     | $83.99        | high           | low    | 3      | name.com                                                  |
+| oil.energy        | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                               |
+| cell.eco          | premium   | $9,375    | —             | high           | low    | 4      | name.com                                                  |
+| cell.organic      | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
+| sun.solar         | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| core.eco          | premium   | $1,875    | —             | medium         | medium | 4      | name.com                                                  |
+| core.organic      | available | $19.99    | —             | medium         | medium | 4      | name.com                                                  |
+| cell.energy       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 26                                         |
+| fuel.green        | premium   | $625      | —             | high           | low    | 4      | name.com                                                  |
+| fuel.organic      | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
+| cell.solar        | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                               |
+| fuel.tech         | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com                                                  |
+| heat.organic      | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
+| core.energy       | resell    | —         | —             | medium         | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
