@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| sun.ryukyu       | available | $22.98    | —             | high           | medium | 3      | namecheap           |
-| sun.pub          | resell    | —         | —             | high           | medium | 3      | Dynadot Inc         |
-| cells.accountant | premium   | $437.50   | —             | medium         | low    | 5      | name.com            |
-| flow.giving      | available | $5.99     | —             | high           | medium | 4      | name.com            |
-| line.archi       | resell    | —         | —             | high           | medium | 4      | Tucows Domains Inc. |
-| cells.art        | premium   | $153.75   | —             | medium         | low    | 5      | name.com            |
-| unit.bingo       | available | $51.98    | $68.98        | medium         | low    | 4      | namecheap           |
-| unit.bio         | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.     |
-| cells.bar        | premium   | $84.99    | —             | medium         | low    | 5      | name.com            |
-| unit.engineering | available | $10.48    | $85.98        | medium         | low    | 4      | namecheap           |
-| unit.community   | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC        |
-| cells.bond       | premium   | $420      | $840          | medium         | low    | 5      | namecheap           |
-| unit.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap           |
-| cells.info       | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.     |
-| cells.boo        | premium   | $73.75    | —             | medium         | low    | 5      | name.com            |
-| watt.today       | available | $2.99     | —             | medium         | low    | 4      | name.com            |
-| green.now        | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc.     |
-| cells.club       | premium   | $33.49    | —             | medium         | low    | 5      | name.com            |
-| cells.adult      | available | $166.98   | —             | medium         | low    | 5      | namecheap           |
-| green.trading    | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc         |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| gas.organic       | available | $19.99     | —             | high           | low    | 3      | name.com          |
+| production.energy | resell    | $21.99     | —             | medium         | low    | 10     | Spaceship, Inc.   |
+| air.earth         | premium   | $325       | $325          | high           | low    | 3      | namecheap         |
+| oil.solar         | available | $9.99      | $83.99        | high           | low    | 3      | name.com          |
+| environmental.io  | resell    | $45,994.25 | $73.99        | high           | low    | 13     | GoDaddy.com, LLC  |
+| gas.tech          | premium   | $1,562.50  | $6,250        | high           | low    | 3      | name.com          |
+| cell.auto         | available | $1,999.99  | $2,199        | high           | low    | 4      | namesilo          |
+| gas.energy        | resell    | —          | —             | high           | low    | 3      | Porkbun LLC       |
+| oil.green         | premium   | $1,875     | $1,875        | high           | low    | 3      | name.com          |
+| cell.autos        | available | $1.99      | $15.75        | high           | low    | 4      | namesilo          |
+| oil.energy        | resell    | —          | —             | high           | low    | 3      | Porkbun LLC       |
+| oil.name          | premium   | $9.98      | —             | high           | low    | 3      | namecheap         |
+| cell.car          | available | $1,999.99  | $2,199        | high           | low    | 4      | namesilo          |
+| sun.solar         | resell    | —          | —             | high           | medium | 3      | Spaceship, Inc.   |
+| oil.tech          | premium   | $1,562.50  | $6,250        | high           | low    | 3      | name.com          |
+| cell.cars         | available | $1,999.99  | $2,199        | high           | low    | 4      | namesilo          |
+| sun.solutions     | resell    | —          | —             | high           | medium | 3      | Porkbun LLC       |
+| sun.green         | premium   | $1,875     | —             | high           | medium | 3      | name.com          |
+| cell.equipment    | available | $19.99     | —             | high           | low    | 4      | name.com          |
+| cell.energy       | resell    | —          | —             | high           | low    | 4      | Sav.com, LLC - 26 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
