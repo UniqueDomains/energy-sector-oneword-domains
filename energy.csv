@@ -684,7 +684,7 @@ b5299192-0671-435a-bac2-cf59d51dbcee,electricity.green,available,,,high,low,11,,
 8bdcdbc5-df87-4db9-b308-6cad809af443,clean.auto,available,1999.99,2199,high,low,5,namesilo,,,
 f0d730bd-8558-4286-b16a-ed267e78a782,clean.autos,premium,2500,,high,low,5,name.com,,,
 5044793c-08f0-4391-9168-d17918e365ad,clean.cars,available,1999.99,2199,high,low,5,namesilo,,,
-f734a754-d0d9-44ab-9341-dedc67152c52,clean.motorcycles,premium,2500,,high,low,5,name.com,,,
+f734a754-d0d9-44ab-9341-dedc67152c52,clean.motorcycles,premium,2660,2660,high,low,5,namesilo,,,18/09/2026 07:35
 4d6894b7-f526-4431-992d-effaa81c9770,clean.dealer,premium,2170,2800,high,low,5,namecheap,,,
 c00cffda-8900-45c7-83c3-38ebd436cc1f,clean.racing,premium,116,192,high,low,5,namesilo,,,
 d656d443-7af4-4756-a81a-0bef0fb1e16e,clean.supplies,available,24.99,24.99,high,low,5,namesilo,,,
@@ -706,7 +706,7 @@ bc35872c-4e37-4eb3-85c3-6d2686a109f1,clean.contractors,available,9.99,,high,low,
 4b3f2c7f-2886-4973-aabc-f6d251999808,clean.music,available,,,high,high,5,,,,
 dcefc872-9710-40bd-b699-8d770cedc84b,clean.hiphop,available,23.99,23.99,high,low,5,namesilo,,,
 8355d448-0354-44b8-b1b0-8f5ddf01ade4,clean.band,available,29.99,,high,low,5,name.com,,,
-f38df984-2d5e-473d-8813-4fa208c832a2,clean.ninja,premium,242,242,high,low,5,namesilo,,,
+f38df984-2d5e-473d-8813-4fa208c832a2,clean.ninja,premium,242,242,high,low,5,namesilo,,,18/09/2026 07:57
 f20b49fb-98c2-4d67-acab-3527fc532a9a,clean.digital,resell,,,high,low,5,Netregistry Wholesale Pty Ltd,26/05/2025 15:15,26/05/2027 15:15,
 0ebf74fe-87a7-49f7-abd4-8557d1caed44,clean.you,premium,116,116,high,low,5,namesilo,,,
 cd48b781-73e5-4ae5-8a49-b3809f1b9d55,clean.soy,premium,373.75,,high,low,5,name.com,,,
@@ -749,7 +749,6 @@ a32fffdf-33c1-4992-b149-522559eca3b5,clean.nexus,premium,623.75,,high,low,5,name
 52b7e19f-70da-4ebd-9354-fb6e242e977b,clean.horse,available,32.49,32.49,high,low,5,namesilo,,,
 cc1a08c9-05c4-4a4a-aa5f-8998bad2d834,clean.vet,available,41.99,41.99,high,low,5,namesilo,,,
 7a38588e-8f0b-45b2-b89a-52e919f1462a,clean.exchange,premium,78.54,78.54,high,low,5,namesilo,,,
-b0972d4d-dcc2-476b-a4cc-5fce3cde9fde,clean.trade,resell,,,high,low,5,"NameSilo, LLC",12/07/2017 21:50,12/07/2026 21:50,
 276a8c95-5753-4bf3-b99d-324ab503d9fc,clean.day,premium,311.25,,high,low,5,name.com,,,
 c81676c7-698f-47b9-9069-d7b4e595a11d,clean.condos,available,58.99,58.99,high,low,5,namesilo,,,
 c3bacf12-aad3-4ba7-82d2-b9578e5128e1,clean.repair,available,9.99,,high,low,5,name.com,,,
@@ -775,7 +774,7 @@ b9f85023-dd5a-4b1d-8aa9-d09d210514ec,clean.cyou,premium,390,780,high,low,5,namec
 5e7e6a47-f6b4-49cf-8830-74641c5e4d6f,clean.moda,available,19.99,,high,low,5,name.com,,,
 38296302-affa-43d9-98de-0cfb709d0ec3,clean.style,premium,78.54,78.54,high,low,5,namesilo,,,
 f8657ddb-7506-40fd-812e-068e07359f2b,clean.living,premium,1960,2800,high,low,5,namecheap,,,
-f82a26bc-963d-4baa-b965-fc389816c67d,clean.life,resell,,,high,low,5,"GoDaddy.com, LLC",17/09/2014 16:00,17/09/2026 16:00,
+f82a26bc-963d-4baa-b965-fc389816c67d,clean.life,resell,,,high,low,5,"GoDaddy.com, LLC",17/09/2014 16:00,17/09/2027 16:00,18/09/2026 05:06
 78d54c0e-6f15-4e11-b639-8f5ac764c7b2,clean.lifestyle,premium,1960,2800,high,low,5,namecheap,,,
 22639640-2be4-483a-b8f8-c888c671e22f,clean.stream,premium,1107,116,high,low,5,namesilo,,,
 ddbcee7d-56ad-4ce4-8d08-97ff2e55e636,clean.video,premium,280,560,high,low,5,namecheap,,,
@@ -842,7 +841,7 @@ c2151b77-69f2-4cd6-a8d9-690c3a38ffbe,clean.foo,premium,623.75,,high,low,5,name.c
 5c7a7f71-3560-483d-8657-689351e3f55a,clean.furniture,available,39.99,,high,low,5,name.com,,,
 76ac9280-531e-423e-9906-364ce2ffe547,clean.store,premium,781.25,,high,low,5,name.com,,,
 b28eb60f-7c63-4a56-b38d-90758398f4cd,clean.center,resell,,,high,low,5,"Spaceship, Inc.",23/12/2019 16:37,23/12/2026 16:37,
-1b59d807-c205-4831-88ad-acc704851c27,clean.market,resell,,,high,low,5,"GoDaddy.com, LLC",09/11/2015 00:58,09/11/2026 00:58,
+1b59d807-c205-4831-88ad-acc704851c27,clean.market,resell,,,high,low,5,"GoDaddy.com, LLC",09/11/2015 00:58,09/11/2026 00:58,18/09/2026 06:16
 94b07aca-c860-47e2-a450-588a8bfded74,clean.surgery,available,54.99,54.99,high,low,5,namesilo,,,
 43a79fe0-8a9e-4933-8fc7-5e5c27980fd9,clean.hospital,resell,,,high,low,5,GoDaddy Online Services Cayman Islands Ltd.,22/03/2017 16:00,22/03/2027 16:00,
 a19bf8ba-449d-4a25-894b-a87e0110e480,clean.tienda,available,9.99,,high,low,5,name.com,,,
@@ -855,7 +854,7 @@ ead11362-2a64-4570-9b12-72302335eb66,clean.democrat,available,9.99,,high,low,5,n
 9b20fb05-49fa-445e-bde3-99f62e66dafc,clean.partners,premium,242,242,high,low,5,namesilo,,,
 684b6309-41db-4047-b1cd-901e06020ff0,clean.dad,premium,311.25,,high,low,5,name.com,,,
 819cb702-4c75-479d-8730-589a1d9aa051,clean.family,premium,242,242,high,low,5,namesilo,,,
-0fc2f420-6a36-475e-a384-094817c429b1,clean.mom,premium,2500,,high,low,5,name.com,,,
+0fc2f420-6a36-475e-a384-094817c429b1,clean.mom,premium,2660,2660,high,low,5,namesilo,,,18/09/2026 06:56
 941f146b-0b46-4577-9e2e-6f7696d85373,clean.creditcard,available,9.99,,high,low,5,name.com,,,
 e85baa31-2120-47b6-87a2-1e5bd6ae384e,clean.luxury,available,49.99,,high,low,5,name.com,,,
 c5c2d34e-33ef-4d89-ac83-40cd3ed618ef,clean.gold,resell,,,high,low,5,"DNSPod, Inc.",05/06/2019 23:26,05/06/2030 23:26,18/09/2026 01:30
@@ -939,7 +938,7 @@ de689fcb-db99-40ec-9166-6cd51d2131c6,clean.boston,available,,,high,high,5,,,,
 0ccc8e2f-309a-4dc1-bc50-1d99b76869c2,clean.fund,resell,,,high,low,5,"Xiamen ChinaSource Internet Service Co., Ltd",24/01/2019 11:04,24/01/2027 11:04,
 39bac7b6-cf20-42a6-9e9b-25f5429cd5f2,clean.clothing,resell,,,high,low,5,"GoDaddy.com, LLC",29/11/2017 05:14,29/11/2026 05:14,
 9445da62-fcf3-40b9-9b16-0d5eb1364423,clean.food,premium,1960,2800,high,low,5,namecheap,,,
-5eaf36ad-ff86-45ed-80a9-cbb700ab02ee,clean.info,resell,,,high,low,5,"GoDaddy.com, LLC",13/07/2002 19:17,13/07/2026 19:17,
+5eaf36ad-ff86-45ed-80a9-cbb700ab02ee,clean.info,resell,,,high,low,5,"GoDaddy.com, LLC",13/07/2002 19:17,13/07/2027 19:17,18/09/2026 08:00
 0fe8f9aa-7b97-4042-9845-fa5e95959e8e,clean.mobi,available,,,high,high,5,,,,
 1ba9237f-6f15-427b-a49c-46bdd9e7dbd6,clean.university,available,19.99,,high,low,5,name.com,,,
 e657ee8f-1739-4870-9265-bd0227958d98,clean.shiksha,available,19.99,,high,low,5,name.com,,,
@@ -960,7 +959,7 @@ f9250800-d4d9-4484-8159-b3e1304aad46,clean.discount,resell,,,high,low,5,Dynadot 
 e537d616-9d5b-4650-a55e-e8d305021a1d,clean.wiki,resell,,,high,low,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),30/05/2023 00:00,30/05/2026 00:00,
 4dd7b01c-9e17-47e5-a4a6-cfe5dd687bb4,clean.top,premium,549.1,,high,low,5,name.com,,,
 08476bbf-01d8-4aac-bdf1-a068e195cda4,clean.my,premium,487.15,,high,low,5,name.com,,,
-d85ea94e-f856-4a50-8a35-0879d450d69a,clean.lol,premium,778.7,,high,low,5,name.com,,,
+d85ea94e-f856-4a50-8a35-0879d450d69a,clean.lol,premium,832,832,high,low,5,namesilo,,,18/09/2026 05:53
 c3a4b9fd-07c2-4ba7-bc14-eb82398f5426,clean.forsale,available,19.99,,high,low,5,name.com,,,
 b394bedf-b7d4-416c-9acd-4528f83c6b5d,clean.study,premium,242,242,high,low,5,namesilo,,,17/09/2026 05:10
 6736c5ff-a59f-471f-915a-cb92814745cf,clean.diy,premium,1750,,high,low,5,name.com,,,
@@ -999,3 +998,4 @@ d493adcd-46b0-47b3-aa7e-cd90e13d6523,electricity.dealer,premium,2015,2600,high,l
 ca570c93-37b4-4863-8ffc-ebd12fabcad4,electricity.supplies,available,24.99,24.99,high,low,11,namesilo,,,
 9589f685-29a8-4e89-80d0-9823bd9b54ce,electricity.parts,premium,128.7,128.7,high,low,11,namecheap,,,
 ebc0d20a-68eb-4032-9909-8c14c9f8445b,electricity.equipment,available,19.99,,high,low,11,name.com,,,
+cb7855e1-d3f5-479c-979e-8595f8ba8385,energy.parts,premium,78.54,78.54,medium,medium,6,namesilo,,,04/09/2026 13:30
