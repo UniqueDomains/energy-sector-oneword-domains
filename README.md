@@ -1,10 +1,10 @@
-# One-Word Energy Domain Names Across 506 TLDs (45,168)
+# One-Word Energy Domain Names Across 506 TLDs (39,536)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-45%2C168%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-39%2C536%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word energy domain names spanning 506 TLDs, with a median asking price near $710. It spans broad-market, niche, and country-code extensions for both investors and founders. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **45,168 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **39,536 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 45,168 domains · **Median ask:** $336.81 · **High-demand under $2,500:** 185
+**Public extract:** 1,000 rows · **Live catalog:** 39,536 domains · **Median ask:** $333.91 · **High-demand under $2,500:** 174
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/energy`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar   |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------- |
-| power.fm          | premium   | $1,273.60  | $102          | high           | medium | 5      | namesilo    |
-| power.hiphop      | available | $23.99     | $23.99        | high           | medium | 5      | namesilo    |
-| watt.today        | available | $2.99      | —             | high           | low    | 4      | name.com    |
-| power.bz          | resell    | $25        | —             | high           | medium | 5      | Porkbun LLC |
-| power.attorney    | premium   | $1,107     | $1,107        | high           | medium | 5      | namesilo    |
-| power.audio       | available | $104.99    | $114.99       | high           | medium | 5      | namesilo    |
-| power.charity     | resell    | $5.99      | —             | high           | medium | 5      | Porkbun LLC |
-| power.autos       | premium   | $845       | $15.73        | high           | medium | 5      | namecheap   |
-| power.auto        | available | $1,999.99  | $2,199        | high           | medium | 5      | namesilo    |
-| energy.berlin     | resell    | $6,371.43  | $75.99        | high           | medium | 6      | name.com    |
-| power.band        | premium   | $512       | $512          | high           | medium | 5      | namesilo    |
-| power.barcelona   | available | $38.98     | $38.98        | high           | medium | 5      | namecheap   |
-| energy.foundation | resell    | $260       | $260          | high           | medium | 6      | Porkbun LLC |
-| power.beauty      | premium   | $832       | $832          | high           | medium | 5      | namesilo    |
-| power.bayern      | available | $34.99     | $34.99        | high           | medium | 5      | namesilo    |
-| energy.gallery    | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC |
-| power.berlin      | premium   | $794.30    | $794.30       | high           | medium | 5      | namecheap   |
-| power.car         | available | $1,999.99  | $2,199        | high           | medium | 5      | namesilo    |
-| energy.luxe       | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc |
-| power.best        | premium   | $594.16    | $594.16       | high           | medium | 5      | namesilo    |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| power.fm          | premium   | $1,273.60 | $102          | high           | medium | 5      | namesilo         |
+| power.hiphop      | available | $23.99    | $23.99        | high           | medium | 5      | namesilo         |
+| power.audio       | available | $104.99   | $114.99       | high           | medium | 5      | namesilo         |
+| power.bz          | resell    | $25       | —             | high           | medium | 5      | Porkbun LLC      |
+| power.attorney    | premium   | $1,107    | $1,107        | high           | medium | 5      | namesilo         |
+| power.auto        | available | $1,999.99 | $2,199        | high           | medium | 5      | namesilo         |
+| power.charity     | resell    | $5.99     | —             | high           | medium | 5      | Porkbun LLC      |
+| power.autos       | premium   | $845      | $15.73        | high           | medium | 5      | namecheap        |
+| power.barcelona   | available | $38.98    | $38.98        | high           | medium | 5      | namecheap        |
+| solar.me          | resell    | $69,000   | $27.99        | high           | high   | 5      | GoDaddy.com, LLC |
+| power.band        | premium   | $512      | $512          | high           | medium | 5      | namesilo         |
+| power.bayern      | available | $34.99    | $34.99        | high           | medium | 5      | namesilo         |
+| energy.berlin     | resell    | $6,371.43 | $75.99        | high           | medium | 6      | name.com         |
+| power.beauty      | premium   | $832      | $832          | high           | medium | 5      | namesilo         |
+| power.car         | available | $1,999.99 | $2,199        | high           | medium | 5      | namesilo         |
+| energy.foundation | resell    | $260      | $260          | high           | medium | 6      | Porkbun LLC      |
+| power.berlin      | premium   | $794.30   | $794.30       | high           | medium | 5      | namecheap        |
+| power.cars        | available | $1,999.99 | $2,199        | high           | medium | 5      | namesilo         |
+| energy.gallery    | resell    | $85.80    | $85.80        | high           | medium | 6      | Porkbun LLC      |
+| power.best        | premium   | $594.16   | $594.16       | high           | medium | 5      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 45,168 live domains                        |
+| 1,000-row public sample | 39,536 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 185 high-demand names under $2,500         |
+| Basic exported fields   | 174 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
