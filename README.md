@@ -1,10 +1,10 @@
-# One-Word Energy Domain Names Across 506 TLDs (78,799)
+# One-Word Energy Domain Names Across 506 TLDs (79,128)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-78%2C799%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-79%2C128%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word energy domain names spanning 506 TLDs, with a median asking price near $710. It spans broad-market, niche, and country-code extensions for both investors and founders. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **78,799 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **79,128 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 78,799 domains · **Median ask:** $349.37 · **High-demand under $2,500:** 318
+**Public extract:** 1,000 rows · **Live catalog:** 79,128 domains · **Median ask:** $345.34 · **High-demand under $2,500:** 300
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/sector/energy`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| cell.organic   | available | $17.99     | $85.99        | high           | low    | 4      | namesilo         |
+| cell.organic   | available | $66.20     | $66.20        | high           | low    | 4      | cloudflare       |
 | power.bz       | resell    | $25        | —             | high           | medium | 5      | Porkbun LLC      |
 | fuel.dad       | premium   | $311.25    | —             | high           | low    | 4      | name.com         |
-| fuel.audio     | available | $104.99    | $114.99       | high           | low    | 4      | namesilo         |
+| fuel.archi     | available | $24.99     | —             | high           | low    | 4      | name.com         |
 | power.charity  | resell    | $5.99      | —             | high           | medium | 5      | Porkbun LLC      |
 | fuel.deal      | premium   | $1,107     | $1,107        | high           | low    | 4      | namesilo         |
-| fuel.careers   | available | $49.99     | —             | high           | low    | 4      | name.com         |
+| fuel.audio     | available | $104.99    | $114.99       | high           | low    | 4      | namesilo         |
 | solar.me       | resell    | $69,000    | $27.99        | high           | high   | 5      | GoDaddy.com, LLC |
-| fuel.fast      | premium   | $302.50    | $302.50       | high           | low    | 4      | namesilo         |
-| fuel.cooking   | available | $32.49     | $32.49        | high           | low    | 4      | namesilo         |
+| fuel.fans      | premium   | $242       | $242          | high           | low    | 4      | namesilo         |
+| fuel.band      | available | $29.99     | —             | high           | low    | 4      | name.com         |
 | energy.berlin  | resell    | $6,371.43  | $75.99        | high           | medium | 6      | name.com         |
-| fuel.fitness   | premium   | $78.54     | $78.54        | high           | low    | 4      | namesilo         |
-| fuel.furniture | available | $39.99     | —             | high           | low    | 4      | name.com         |
+| fuel.fast      | premium   | $302.50    | $302.50       | high           | low    | 4      | namesilo         |
+| fuel.careers   | available | $49.99     | —             | high           | low    | 4      | name.com         |
 | energy.gallery | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC      |
-| fuel.fm        | premium   | $1,243.75  | —             | high           | low    | 4      | name.com         |
-| fuel.gives     | available | $5.99      | —             | high           | low    | 4      | name.com         |
+| fuel.fitness   | premium   | $78.54     | $78.54        | high           | low    | 4      | namesilo         |
+| fuel.cooking   | available | $32.49     | $32.49        | high           | low    | 4      | namesilo         |
 | energy.luxe    | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc      |
-| fuel.food      | premium   | $490       | $700          | high           | low    | 4      | namecheap        |
-| fuel.hiphop    | available | $23.99     | $23.99        | high           | low    | 4      | namesilo         |
+| fuel.fm        | premium   | $1,243.75  | —             | high           | low    | 4      | name.com         |
+| fuel.furniture | available | $39.99     | —             | high           | low    | 4      | name.com         |
 | energy.me      | resell    | $5,750     | $27.99        | high           | medium | 6      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 78,799 live domains                        |
+| 1,000-row public sample | 79,128 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 318 high-demand names under $2,500         |
+| Basic exported fields   | 300 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
