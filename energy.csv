@@ -938,6 +938,7 @@ c14e503a-1988-4eb5-a830-074eae06fba9,generator.support,available,9.99,45.99,high
 6aae675a-3e4c-4031-880c-a78d82598691,grid.reisen,available,21.98,28.98,high,medium,4,namecheap,,,24/09/2026 17:52
 f7dc84c6-0f27-42e5-a540-6b0bb7e97dc7,electricity.directory,available,4.34,21.94,high,low,11,spaceship,,,02/10/2026 10:51
 d5f67c32-ce84-4e46-98c9-5d98bcfc8090,fuel.hiv,available,184.9,184.9,high,low,4,spaceship,,,29/09/2026 20:07
+e6e6cde3-7f54-4f68-85ef-3391d1f728ac,cell.locker,premium,650,39,high,low,4,namecheap,,,04/10/2026 22:18
 c347fbb7-70c0-4ac8-b89f-c0f6a6d74fbf,fuel.dental,available,62.3,62.3,high,low,4,spaceship,,,29/09/2026 20:07
 dfe55f25-dd6c-4ba7-a88a-c2ce1e271cb6,electric.pw,resell,20.48,,high,low,8,"Xiamen ChinaSource Internet Service Co., Ltd",19/05/2026 02:33,19/05/2036 02:33,26/09/2026 05:47
 3e0e256a-d3d0-49ed-ba6e-bde36a598e45,fuel.rodeo,available,10.58,10.58,high,low,4,spaceship,,,29/09/2026 20:07
@@ -953,7 +954,7 @@ fec00a5f-a66c-4720-a49d-964858b15036,electricity.stream,premium,362.45,51.95,hig
 5bb1d813-98bd-4af0-aba9-da649b58f401,electricity.gay,available,2.99,38.99,high,low,11,namesilo,,,02/10/2026 10:51
 910d4136-997f-4eb4-8a4b-7bc9bd9e3143,grid.church,resell,,,high,medium,4,Dynadot Inc,23/01/2026 17:00,23/01/2027 17:00,26/09/2026 06:30
 8f5236da-80b4-4e60-8b90-f8f219990ea6,grid.management,available,26.98,34.98,high,medium,4,namecheap,,,24/09/2026 17:52
-ca7f1118-eac9-4a59-9d44-d9cd53bbbde1,network.online,premium,1375,5500,high,medium,7,dynadot,,,02/10/2026 16:02
+ca7f1118-eac9-4a59-9d44-d9cd53bbbde1,network.online,premium,1375,5500,high,medium,7,dynadot,,,04/10/2026 12:16
 91cbc9af-00b2-410c-84f0-8b9390cd6514,circuit.solar,available,64.99,64.99,high,low,7,namesilo,,,29/09/2026 09:16
 82d20d2e-51e4-4340-8428-3ba904ba4e00,electrical.racing,available,11.99,11.99,high,low,10,namesilo,,,16/08/2026 02:39
 85d1f787-7cf9-4f37-aec6-a7e9d99cd8f4,generator.cn,available,9.99,9.99,high,low,9,godaddy,,,28/09/2026 01:59
@@ -963,7 +964,6 @@ b7b0ca65-7d44-4ce5-97f0-f719493bd147,generator.hiv,available,184.9,184.9,high,lo
 bd8fa1c5-cea7-438e-ae6f-1d09f5bb854d,turbine.rich,available,94.99,1999,high,low,7,namesilo,,,30/09/2026 03:04
 873d15c3-1064-46a2-8d22-a0be8ff526c3,turbine.date,premium,390,65,high,low,7,namecheap,,,30/09/2026 03:04
 d52f4e45-dcc1-42b9-bd08-3662eba1a71c,fuel.webcam,premium,517.7,67.48,high,low,4,spaceship,,,29/09/2026 20:07
-e6e6cde3-7f54-4f68-85ef-3391d1f728ac,cell.locker,premium,159.23,8.8,high,low,4,namesilo,,,01/10/2026 14:17
 3aa99fc9-80e8-48ce-b5a6-e6d042e3cea7,electric.giving,available,5.99,40.99,high,low,8,name.com,,,24/09/2026 13:44
 791529b6-b320-4b7d-9abe-220b933535c7,fuel.shiksha,available,10.55,41.6,high,low,4,spaceship,,,29/09/2026 20:07
 21fb17cd-212c-4ca6-94d9-830e5b1f21b0,powered.car,available,2070,2400,high,low,7,namecheap,,,27/09/2026 04:51
