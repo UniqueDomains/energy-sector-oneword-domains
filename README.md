@@ -1,10 +1,10 @@
-# One-Word Energy Domain Names Across 506 TLDs (123,408)
+# One-Word Energy Domain Names Across 506 TLDs (123,827)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-123%2C408%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-123%2C827%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word energy domain names spanning 506 TLDs, with a median asking price near $710. It spans broad-market, niche, and country-code extensions for both investors and founders. Updated daily to reflect current pricing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **123,408 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **123,827 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 123,408 domains · **Median ask:** $254.50 · **High-demand under $2,500:** 239
+**Public extract:** 1,000 rows · **Live catalog:** 123,827 domains · **Median ask:** $253.53 · **High-demand under $2,500:** 244
 
 **Last updated:** 2026-10-08
 **Canonical page:** `https://unique.domains/domains/sector/energy`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| fuel.adult       | available | $51.95     | $98.53        | high           | low    | 4      | spaceship        |
-| power.bz         | resell    | $25        | —             | high           | medium | 5      | Porkbun LLC      |
-| fuel.cfd         | premium   | $390       | $780          | high           | low    | 4      | namecheap        |
-| fuel.catering    | available | $40.98     | $48.98        | high           | low    | 4      | namecheap        |
-| power.charity    | resell    | $5.99      | —             | high           | medium | 5      | Porkbun LLC      |
-| fuel.lifestyle   | premium   | $546.35    | $546.35       | high           | low    | 4      | porkbun          |
-| fuel.clinic      | available | $50.20     | $50.20        | high           | low    | 4      | cloudflare       |
-| energy.berlin    | resell    | $6,371.43  | $75.99        | high           | medium | 6      | name.com         |
-| fuel.love        | premium   | $181.33    | $258.95       | high           | low    | 4      | spaceship        |
-| fuel.contractors | available | $28.15     | $28.15        | high           | low    | 4      | spaceship        |
-| energy.gallery   | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC      |
-| fuel.phd         | premium   | $329.20    | —             | high           | low    | 4      | unstoppable      |
-| fuel.diamonds    | available | $43.67     | $43.67        | high           | low    | 4      | spaceship        |
-| energy.luxe      | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc      |
-| fuel.properties  | premium   | $102.67    | $102.67       | high           | low    | 4      | spaceship        |
-| fuel.diet        | available | $100.20    | $100.20       | high           | low    | 4      | cloudflare       |
-| energy.me        | resell    | $5,750     | $27.99        | high           | medium | 6      | GoDaddy.com, LLC |
-| fuel.sbs         | premium   | $310.70    | $621.20       | high           | low    | 4      | spaceship        |
-| fuel.florist     | available | $26.08     | $26.08        | high           | low    | 4      | spaceship        |
-| energy.town      | resell    | $42.90     | $42.90        | high           | medium | 6      | Porkbun LLC      |
+| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| cell.autos      | available | $1.99      | $25.99        | high           | low    | 4      | godaddy          |
+| cell.tools      | resell    | $17.99     | —             | high           | low    | 4      | Dynadot Inc      |
+| fuel.accountant | premium   | $437.50    | —             | high           | low    | 4      | name.com         |
+| fuel.apartments | available | $44.20     | $44.20        | high           | low    | 4      | cloudflare       |
+| power.bz        | resell    | $25        | —             | high           | medium | 5      | Porkbun LLC      |
+| fuel.boo        | premium   | $272.35    | $272.35       | high           | low    | 4      | porkbun          |
+| fuel.auto       | available | $1,863.20  | $2,064.20     | high           | low    | 4      | spaceship        |
+| power.charity   | resell    | $5.99      | —             | high           | medium | 5      | Porkbun LLC      |
+| fuel.business   | premium   | $13.66     | $13.66        | high           | low    | 4      | spaceship        |
+| fuel.beauty     | available | $1.24      | $13.97        | high           | low    | 4      | spaceship        |
+| energy.berlin   | resell    | $6,371.43  | $75.99        | high           | medium | 6      | name.com         |
+| fuel.esq        | premium   | $359.68    | $359.68       | high           | low    | 4      | porkbun          |
+| fuel.casino     | available | $7.71      | $133.97       | high           | low    | 4      | dynadot          |
+| energy.gallery  | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC      |
+| fuel.green      | premium   | $650       | $650          | high           | low    | 4      | namecheap        |
+| fuel.ceo        | available | $9.19      | $103.70       | high           | low    | 4      | spaceship        |
+| energy.luxe     | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc      |
+| fuel.help       | premium   | $362.45    | $517.70       | high           | low    | 4      | spaceship        |
+| fuel.charity    | available | $11.99     | $23.01        | high           | low    | 4      | dynadot          |
+| energy.me       | resell    | $5,750     | $27.99        | high           | medium | 6      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 123,408 live domains                                 |
+| 1,000-row public sample | 123,827 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 239 high-demand names under $2,500                   |
+| Basic exported fields   | 244 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
