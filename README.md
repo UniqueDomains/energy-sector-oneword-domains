@@ -14,7 +14,7 @@ This selection covers one-word energy domain names spanning 506 TLDs, with a med
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **119,995 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 119,995 domains · **Median ask:** $259.27 · **High-demand under $2,500:** 1,275
+**Public extract:** 1,000 rows · **Live catalog:** 119,995 domains · **Median ask:** $259.26 · **High-demand under $2,500:** 1,275
 
 **Last updated:** 2026-10-23
 **Canonical page:** `https://unique.domains/domains/sector/energy`
