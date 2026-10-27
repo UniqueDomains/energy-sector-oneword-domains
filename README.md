@@ -16,7 +16,7 @@ This selection covers one-word energy domain names spanning 506 TLDs, with a med
 
 **Public extract:** 1,000 rows · **Live catalog:** 119,052 domains · **Median ask:** $249.88 · **High-demand under $2,500:** 2,385
 
-**Last updated:** 2026-10-25
+**Last updated:** 2026-10-27
 **Canonical page:** `https://unique.domains/domains/sector/energy`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| oil.desi         | available | $19.98     | $22.98        | high           | low    | 3      | namecheap        |
-| wind.health      | resell    | $19.99     | —             | high           | low    | 4      | Spaceship, Inc.  |
-| cell.eco         | premium   | $8,250     | $61.74        | high           | low    | 4      | dynadot          |
-| oil.solar        | available | $64.99     | $64.99        | high           | low    | 3      | namesilo         |
-| energy.berlin    | resell    | $6,371.43  | $75.99        | high           | medium | 6      | name.com         |
-| cell.photos      | premium   | $118.80    | $118.80       | high           | low    | 4      | namesilo         |
-| cell.democrat    | available | $7.25      | $7.25         | high           | low    | 4      | namesilo         |
-| energy.gallery   | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC      |
-| cell.pw          | premium   | $517.50    | $517.50       | high           | low    | 4      | spaceship        |
-| cell.enterprises | available | $11.99     | $59.99        | high           | low    | 4      | godaddy          |
-| energy.luxe      | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc      |
-| fuel.blog        | premium   | $160       | $640          | high           | low    | 4      | namesilo         |
-| cell.florist     | available | $32.99     | $32.99        | high           | low    | 4      | namesilo         |
-| energy.me        | resell    | $5,750     | $27.99        | high           | medium | 6      | GoDaddy.com, LLC |
-| fuel.cfd         | premium   | $390       | $780          | high           | low    | 4      | namecheap        |
-| cell.glass       | available | $66.56     | $66.56        | high           | low    | 4      | dynadot          |
-| energy.town      | resell    | $42.90     | $42.90        | high           | medium | 6      | Porkbun LLC      |
-| fuel.consulting  | premium   | $130       | $260          | high           | low    | 4      | namecheap        |
-| cell.hosting     | available | $279.65    | $341.75       | high           | low    | 4      | spaceship        |
-| electric.adult   | resell    | $166.98    | —             | high           | low    | 8      | GoDaddy.com, LLC |
+| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| cell.army       | available | $15.73     | $31.25        | high           | low    | 4      | spaceship                                    |
+| fuel.pw         | resell    | $4,501.10  | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| cell.llc        | premium   | $500.50    | $517.70       | high           | low    | 4      | unstoppable                                  |
+| cell.car        | available | $2,070     | $2,400        | high           | low    | 4      | namecheap                                    |
+| wind.org        | resell    | $82,222.70 | $21.99        | high           | low    | 4      | GoDaddy.com, LLC                             |
+| fuel.bio        | premium   | $517.70    | $517.70       | high           | low    | 4      | spaceship                                    |
+| cell.careers    | available | $49.99     | $121.99       | high           | low    | 4      | godaddy                                      |
+| solar.me        | resell    | $69,000    | $27.99        | high           | low    | 5      | GoDaddy.com, LLC                             |
+| fuel.creditcard | premium   | $242       | $242          | high           | low    | 4      | namesilo                                     |
+| cell.equipment  | available | $22.97     | $22.97        | high           | low    | 4      | spaceship                                    |
+| energy.berlin   | resell    | $6,371.43  | $75.99        | high           | medium | 6      | name.com                                     |
+| fuel.cv         | premium   | $1,042.76  | $69.86        | high           | low    | 4      | spaceship                                    |
+| cell.jewelry    | available | $64.99     | $64.99        | high           | low    | 4      | namesilo                                     |
+| energy.gallery  | resell    | $85.80     | $85.80        | high           | medium | 6      | Porkbun LLC                                  |
+| fuel.forum      | premium   | $517.70    | $517.70       | high           | low    | 4      | spaceship                                    |
+| cell.theatre    | available | $509.99    | $529.99       | high           | low    | 4      | namesilo                                     |
+| energy.luxe     | resell    | $37,060.64 | —             | high           | medium | 6      | Dynadot Inc                                  |
+| fuel.host       | premium   | $517.70    | $1,035.20     | high           | low    | 4      | spaceship                                    |
+| fuel.academy    | available | $11.99     | $38.74        | high           | low    | 4      | dynadot                                      |
+| energy.me       | resell    | $5,750     | $27.99        | high           | medium | 6      | GoDaddy.com, LLC                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-10-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Energy Domain Names Across 506 TLDs*. Version 2026-10-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
